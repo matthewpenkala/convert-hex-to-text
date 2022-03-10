@@ -1,0 +1,60 @@
+Uri: https://fonts.googleapis.com/css2?family=Roboto&display=swap
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\s\roboto\v29\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://onlinehextools.com/convert-hex-to-text
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\convert-hex-to-text.html
+Content Type: text/html
+
+Uri: https://onlinehextools.com/css/stylesheet.css?v=2dcf9b
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\css\stylesheet.css
+Content Type: text/css
+
+Uri: https://onlinehextools.com/images/logo-onlinehextools.png
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\images\logo-onlinehextools.png
+Content Type: image/png
+
+Uri: https://onlinehextools.com/js/bridges/convert-hex-to-utf8.js?v=2dcf9b
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\js\bridges\convert-hex-to-utf8.js
+Content Type: application/javascript
+
+Uri: https://onlinehextools.com/js/converter.js?v=2dcf9b
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\js\converter.js
+Content Type: application/javascript
+
+Uri: https://onlinehextools.com/js/lazysizes.5.3.2.min.js
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\js\lazysizes.5.3.2.min.js
+Content Type: application/javascript
+
+Uri: https://onlinehextools.com/js/libs/utf8.js?v=2dcf9b
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\js\libs\utf8.js
+Content Type: application/javascript
+
+Uri: https://onlinehextools.com/js/save-as.js
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\js\save-as.js
+Content Type: application/javascript
+
+Uri: https://onlinehextools.com/js/site.js?v=2dcf9b
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\js\site.js
+Content Type: application/javascript
+
+Uri: https://onlinehextools.com/js/textarea-autosize.js
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\js\textarea-autosize.js
+Content Type: application/javascript
+
+Uri: https://onlinehextools.com/js/zenscroll.js
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\js\zenscroll.js
+Content Type: application/javascript
+
+Uri: https://secure.statcounter.com/counter/counter.js
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\counter\counter.js
+Content Type: application/x-javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-107985729-12
+File Name: C:\Users\matth\Downloads\New folder (3)\onlinehextools.com\gtag\js
+Content Type: application/javascript
+
